@@ -1,0 +1,20 @@
+body {
+background-image: url(images/empty-town-square_1359-156.avif) ;
+}
+
+.container {
+   display: block;
+    justify-content: center;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.Innertext {
+    margin-left: 12%;
+}
+
+button {
+    display: flex;
+    margin-left: 8%;
+    margin-top: 5%;
+}
