@@ -10,8 +10,7 @@ function pressed(){
 }
 
 function keep(){
- records.innerText = count;
+ records.textContent += count + " - ";
  count = 0;
  clickNum.textContent = count ;
-
 }

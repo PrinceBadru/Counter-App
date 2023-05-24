@@ -13,6 +13,10 @@ background-image: url(images/empty-town-square_1359-156.avif) ;
     margin-left: 12%;
 }
 
+#notes {
+    color: white;
+}
+
 button {
     display: flex;
     margin-left: 8%;
